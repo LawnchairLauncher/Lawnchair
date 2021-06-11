@@ -82,6 +82,17 @@
     <string name="dt2s_warning_open_settings">Ayarları Aç</string>
     <string name="minus_one_enable">Akışı göster</string>
     <string name="minus_one_unavailable">Akış mevcut değil</string>
-    <string name="fuzzy_search_title">Fuzzy Search</string>
-    <string name="fuzzy_search_desc">Approximate matching for app searches.</string>
+    <string name="fuzzy_search_title">Yaklaşık Arama</string>
+    <string name="fuzzy_search_desc">Uygulama aramaları için yaklaşık eşleştirme.</string>
+    <string name="theme_label">Tema</string>
+    <string name="theme_light">Aydınlık</string>
+    <string name="theme_dark">Karanlık</string>
+    <string name="theme_system_default">Follow System</string>
+    <string name="theme_follow_wallpaper">Match Wallpaper</string>
+    <string name="quickstep_label">En Son Uygulamalar</string>
+    <string name="clear_all_as_action_label">Altta \"Tümünü kapat\" \'ı göster</string>
+    <string name="window_corner_radius_label">Köşe yarıçapı</string>
+    <string name="override_window_corner_radius_label">Özel köşe yarıçapı</string>
+    <string name="override_window_corner_radius_description">Varsayılan olan ekranınıza uymuyorsa</string>
+    <string name="system_icons">System Icons</string>
 </resources>

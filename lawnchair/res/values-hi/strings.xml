@@ -22,7 +22,7 @@
     <string name="general_label">General</string>
     <string name="general_description">Notification Dots, Icon Pack</string>
     <string name="home_screen_rotation_label">Home Screen Rotation</string>
-    <string name="home_screen_rotaton_description">When device is rotated.</string>
+    <string name="home_screen_rotaton_description">जब फोन घुमाया जाता है।</string>
     <string name="auto_add_shortcuts_label">Add New Apps to Home Screen</string>
     <string name="dock_label">Dock</string>
     <string name="dock_description">Search Bar, Icon Count</string>
@@ -74,14 +74,14 @@
         <item quantity="other">%1$d Apps</item>
     </plurals>
     <string name="hotseat_qsb_label">Show Search Bar</string>
-    <string name="dt2s_admin_hint_title">ایڈمن اجازت درکار ہے</string>
-    <string name="dt2s_admin_hint">دو بار دوبا کیر سولانے کے لئے، ایڈمن کی اجازت دیں۔</string>
-    <string name="dt2s_admin_warning">دو بار دوبا کر سولانا غیر فعال ہو جائے گا۔</string>
-    <string name="dt2s_a11y_hint_title">رسائی کی خدمت درکار ہے</string>
-    <string name="dt2s_a11y_hint">دو بار دوبا کر سولانے کے استعمال کے لیے قابل رسائی خدمت کو قابل بنائیں۔</string>
+    <string name="dt2s_admin_hint_title">Admin Permissions Required</string>
+    <string name="dt2s_admin_hint">To use Double-Tap to Sleep, set Lawnchair as a device admin app. Tap “Open Settings,” then tap “Activate this device admin app.”</string>
+    <string name="dt2s_admin_warning">Double-Tap to Sleep will be turned off.</string>
+    <string name="dt2s_a11y_hint_title">Turn on Accessibility Service</string>
+    <string name="dt2s_a11y_hint">To use Double-Tap to Sleep, turn on the Lawnchair accessibility service. Tap “Open Settings,” then select “Lawnchair” and turn on “Use Lawnchair.”</string>
     <string name="dt2s_warning_open_settings">Open Settings</string>
     <string name="minus_one_enable">Show Feed</string>
-    <string name="minus_one_unavailable">فیڈ دستیاب نہیں ہے</string>
+    <string name="minus_one_unavailable">No feed installed.</string>
     <string name="fuzzy_search_title">Fuzzy Search</string>
     <string name="fuzzy_search_desc">Approximate matching for app searches.</string>
     <string name="theme_label">Theme</string>
